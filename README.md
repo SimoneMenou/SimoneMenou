@@ -7,7 +7,7 @@
 Je suis également à l'aise avec les technologies web de base telles que HTML et CSS. 🎨
 J'ai de l'expérience dans la création de maquettes sur Figma, ce qui me permet de transformer les idées en interfaces utilisateur intuitives.
 
-Voici quelques liens vers des platteformes et site que je consulte régulièrement pour ma veille : 
+Voici quelques liens vers des plateformes et site que je consulte régulièrement pour ma veille : 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📻 https://double-slash.dev
 📻 https://techologie.net
