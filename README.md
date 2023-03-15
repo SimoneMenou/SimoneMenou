@@ -7,11 +7,8 @@
 Je suis également à l'aise avec les technologies web de base telles que HTML et CSS. 🎨
 J'ai de l'expérience dans la création de maquettes sur Figma, ce qui me permet de transformer les idées en interfaces utilisateur intuitives.
 
-Enfin, passionnée par les nouvelles technologies et je suis constamment en train de me tenir informée des dernières tendances en matière de développement web.
-Toujours à la recherche de nouveaux outils et de nouvelles ressources pour améliorer mes compétences et rester à jour dans ce domaine en constante évolution. 
-Je vous propose quelques liens que je consulte régulièrement pour ma veille technologique :
+Voici quelques liens vers des platteformes et site que je consulte régulièrement pour ma veille : 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 📻 https://double-slash.dev
 📻 https://techologie.net
-
 🌐https://isit-be.org/fr/linstitut-fr
